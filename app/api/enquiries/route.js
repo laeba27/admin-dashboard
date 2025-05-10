@@ -30,7 +30,7 @@ function ensureDataFileExists() {
   }
 }
 
-// Helper function to read enquiries from file
+//  function to read enquiries
 function readEnquiries() {
   try {
     ensureDataFileExists();
