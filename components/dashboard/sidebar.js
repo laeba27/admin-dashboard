@@ -34,12 +34,12 @@ const navItems = [
     title: "Orders",
     href: "/dashboard/orders",
     icon: ShoppingCart,
+  },
+  {
+    title: "Enquiries",
+    href: "/dashboard/enquiries",
+    icon: Users,
   }
-  // {
-  //   title: "Customers",
-  //   href: "/dashboard/customers",
-  //   icon: Users,
-  // },
   // {
   //   title: "Analytics",
   //   href: "/dashboard/analytics",

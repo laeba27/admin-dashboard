@@ -25,7 +25,7 @@ import { CheckCircle, Clock, SearchIcon, XCircle } from "lucide-react";
 const orders = [
   {
     id: "ORD-001",
-    customer: "John Smith",
+    customer: "Raju",
     date: new Date("2023-11-10T14:32:21"),
     status: "Delivered",
     total: 249.99,
@@ -33,7 +33,7 @@ const orders = [
   },
   {
     id: "ORD-002",
-    customer: "Alice Johnson",
+    customer: "Sakshi",
     date: new Date("2023-11-09T09:15:00"),
     status: "Processing",
     total: 129.95,
@@ -41,7 +41,7 @@ const orders = [
   },
   {
     id: "ORD-003",
-    customer: "Robert Davis",
+    customer: "snehaa",
     date: new Date("2023-11-08T16:20:10"),
     status: "Shipped",
     total: 349.50,
@@ -49,7 +49,7 @@ const orders = [
   },
   {
     id: "ORD-004",
-    customer: "Mary Wilson",
+    customer: "meghaa",
     date: new Date("2023-11-07T11:05:30"),
     status: "Delivered",
     total: 99.99,
@@ -57,36 +57,12 @@ const orders = [
   },
   {
     id: "ORD-005",
-    customer: "James Brown",
+    customer: "raghav",
     date: new Date("2023-11-06T15:45:00"),
     status: "Cancelled",
     total: 199.99,
     items: 2,
-  },
-  {
-    id: "ORD-006",
-    customer: "Patricia Miller",
-    date: new Date("2023-11-05T10:30:15"),
-    status: "Delivered",
-    total: 399.95,
-    items: 5,
-  },
-  {
-    id: "ORD-007",
-    customer: "Michael Davis",
-    date: new Date("2023-11-04T13:25:40"),
-    status: "Processing",
-    total: 149.99,
-    items: 2,
-  },
-  {
-    id: "ORD-008",
-    customer: "Sarah Garcia",
-    date: new Date("2023-11-03T09:10:05"),
-    status: "Shipped",
-    total: 279.98,
-    items: 3,
-  },
+  }
 ];
 
 export default function OrdersPage() {

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1746817337262",
+    "name": "Test User",
+    "email": "test@example.com",
+    "service": "consultation",
+    "message": "Testing persistence",
+    "timestamp": "2025-05-09T19:02:17.262Z",
+    "status": "new"
+  },
+  {
+    "id": "1746817355824",
+    "name": "Another User",
+    "email": "another@example.com",
+    "service": "web-development",
+    "message": "Second test message",
+    "timestamp": "2025-05-09T19:02:35.824Z",
+    "status": "new"
+  },
+  {
+    "id": "1746817432436",
+    "name": "jaiveer ",
+    "email": "heykreanto@gmail.com",
+    "service": "e-commerce",
+    "message": "dsadda",
+    "timestamp": "2025-05-09T19:03:52.436Z",
+    "status": "new"
+  },
+  {
+    "id": "1746817651447",
+    "name": "ayush",
+    "email": "ayushbhatt123@gmail.com",
+    "service": "mobile-app",
+    "message": "jkjj",
+    "timestamp": "2025-05-09T19:07:31.447Z",
+    "status": "new"
+  },
+  {
+    "id": "1746817740669",
+    "name": "harish singh",
+    "email": "laeba.17april@gmail.com",
+    "service": "e-commerce",
+    "message": "kjhkhk",
+    "timestamp": "2025-05-09T19:09:00.669Z",
+    "status": "new"
+  }
+]
